@@ -1,0 +1,6 @@
+/Users/yangbing/Documents/code/C#/week4/Lab4/Lab4/bin/Debug/Lab4.exe
+/Users/yangbing/Documents/code/C#/week4/Lab4/Lab4/bin/Debug/Lab4.pdb
+/Users/yangbing/Documents/code/C#/week4/Lab4/Lab4/obj/Debug/Lab4.csprojAssemblyReference.cache
+/Users/yangbing/Documents/code/C#/week4/Lab4/Lab4/obj/Debug/Lab4.exe
+/Users/yangbing/Documents/code/C#/week4/Lab4/Lab4/obj/Debug/Lab4.pdb
+/Users/yangbing/Documents/code/C#/week4/Lab4/Lab4/obj/Debug/Lab4.csproj.CoreCompileInputs.cache
